@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NKr9612
 - 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on no one. 
 - 📫 How to reach me - write me on LinkedIn - https://www.linkedin.com/in/norbert-krupa-586aa0186/ 
 
 <!---
